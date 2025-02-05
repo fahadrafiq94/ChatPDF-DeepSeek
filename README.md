@@ -124,7 +124,7 @@ streamlit run app.py
 
 - `rag_deep_app.py`: Main Streamlit application file.
 - `requirements.txt`: List of required dependencies.
-- `document_store/PDFs`: Folder where uploaded PDFs are stored.
+- `document_store/PDFs`: Folder where uploaded PDFs are stored (if not then create).
 - `README.md`: This file.
 
 ---
