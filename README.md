@@ -1,5 +1,6 @@
 
-# ChatPDF with DeepSeek R1
+# ChatPDF with DeepSeek R1 Locally Using Ollama
+
 
 This project allows users to upload a PDF document, extract its content, and interact with it using the **DeepSeek R1 1.5b model** via a chatbot interface built with Streamlit.
 
