@@ -67,11 +67,10 @@ The `requirements.txt` file contains the following dependencies:
 
 ```txt
 streamlit
-langchain
-pdfplumber
-langchain-community
-langchain-text-splitters
-ollama
+langchain_core
+langchain_community
+langchain_ollama
+pdfplumber 
 ```
 
 ### 4. Install Ollama
